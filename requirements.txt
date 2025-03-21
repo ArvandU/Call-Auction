@@ -1,4 +1,9 @@
-Flask
-Flask_SQLAlchemy
-Flask_Cors
+flask
+flask_sqlalchemy
+flask_wtf
+flask_login
+flask_migrate
+wtforms
+requests
 gunicorn
+psycopg2
